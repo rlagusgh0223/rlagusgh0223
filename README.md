@@ -1,4 +1,4 @@
-### Hi I'm Hyun Kim 👋
+### Hi I'm Hyeon Kim 👋
 #### 🔭 < Short Introduction > 
 - LPIC-1 Certification
 - Oracle Certified Professional, Java SE 6 Programmer
@@ -15,7 +15,7 @@
 - 💬 Feel free to ask me about all of your question. 
 - 🌱 I'm currently learning about Machine Learning, Algorithm and Strategy Researcher of IT Giants.
 
-## About Hyun Kim
+## About Hyeon Kim
    I have been interested in computer science since I was a high school student, so I garaduated university majored Information and Communication Engineering related in computer science. I studied for four years on a scholarship.
 Afterwards, I learn Network, CCNP, Linux, C, JAVA(SCJP, JSP), 2008 Server, System Security and Net Security at a professional computer training facility in Korea, because I personally felt that it is not enough to learn only university education. (https://blog.naver.com/hopanman11)
 I have done many collaborative projects over the years. Among them, the most memorable project is the recent machine learning project. If you are interested, please refer to the list of projects below.
