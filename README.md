@@ -11,7 +11,7 @@
 - Served for country as a navy officer during 3 years
 <br/>
 
-> Reach me
+> #### Reach me
 - 📫 How to reach me : hopanman11@naver.com
 - 💬 Feel free to ask me about all of your question. 
 - 🌱 I'm currently learning about Machine Learning, Algorithm and Strategy Researcher of IT Giants.
@@ -21,6 +21,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;I have been interested in computer science since I was a high school student, so I garaduated university majored Information and Communication Engineering related in computer science. I studied for four years on a scholarship.
 Afterwards, I learn Network, CCNP, Linux, C, JAVA(SCJP, JSP), 2008 Server, System Security and Net Security at a professional computer training facility in Korea, because I personally felt that it is not enough to learn only university education. (https://blog.naver.com/hopanman11)
 I have done many collaborative projects over the years. Among them, the most memorable project is the recent machine learning project. If you are interested, please refer to the list of projects below.
+<br/>
 P.S ) I served for country as a navy officer during 3 years. It has been through hard trainging that most people can't stand. I literally have a strong will and never give up on anything :)
 <br/>
 
