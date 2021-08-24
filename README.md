@@ -22,7 +22,7 @@
 Afterwards, I learn Network, CCNP, Linux, C, JAVA(SCJP, JSP), 2008 Server, System Security and Net Security at a professional computer training facility in Korea, because I personally felt that it is not enough to learn only university education(https://blog.naver.com/hopanman11).
 I have done many collaborative projects over the years. Among them, the most memorable project is the recent machine learning project. If you are interested, please refer to the list of projects below.<br/>
 I'm Kaggle Competitions Contributor(https://www.kaggle.com/rlagusgh0223)<br/>
-I'm getting AI training from ikelion.
+I'm getting AI training from Likelion.
 
 <br/>
 P.S ) I served for country as a navy officer during 3 years. It has been through hard trainging that most people can't stand. I'm resilient and work hard !! I mean I literally have a strong will and never give up on anything :)
